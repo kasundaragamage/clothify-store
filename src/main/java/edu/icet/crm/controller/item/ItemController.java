@@ -17,7 +17,7 @@ public class ItemController {
 
     public static ItemController getInstance(){
         if(instance==null){
-            return instance=new ItemController();
+            return instance = new ItemController();
         }
         return instance;
     }

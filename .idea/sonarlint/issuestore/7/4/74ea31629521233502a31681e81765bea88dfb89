@@ -1,0 +1,13 @@
+
+	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼¿‘Ø„2J$b5297050-29ed-477e-bab6-8b714a7b310d
+	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼¿‘Ø„2J$fd6cba45-8af9-4c88-af00-2955b24d7dab
+q
+java:S1121".Extract the assignment out of this expression.(©µÀ8½¿‘Ø„2J$2fcfa3e0-bf41-458f-9c30-3e34b606c2ef
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ûØåûÿÿÿÿ8È¿‘Ø„2J$a810fe86-cfa9-432f-aa84-b781cb550612
+‰
+java:S20953"GUse try-with-resources or close this "Statement" in a "finally" clause.(¹‘½P8È¿‘Ø„2J$2eaa6ddb-0295-42dd-9228-a537d933d24e
+Ü
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(Ì½ÍÒ8Ê¿‘Ø„2J$cd74a538-c821-4bd0-8fbe-bc1d1804efbc
+{
+java:S1128"8Remove this unused import 'edu.icet.crm.model.Customer'.(Ó¼â¢8Ğ¿‘Ø„2J$dfb44a20-8e7c-4f0c-9ab9-a006361b18ea

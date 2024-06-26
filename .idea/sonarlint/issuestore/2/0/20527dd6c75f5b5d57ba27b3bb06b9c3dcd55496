@@ -1,0 +1,91 @@
+
+	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Éç±¥…2J$e020d653-0794-41c7-9f21-d9867815843d
+w
+java:S3740"/Provide the parametrized type for this generic.(íü«±ıÿÿÿÿ8Êç±¥…2J$58bf9c92-6976-4217-9b45-182b0679b21a
+w
+java:S3740$"/Provide the parametrized type for this generic.(ÑñÚáúÿÿÿÿ8Êç±¥…2J$d0aba24e-580d-434b-8f74-889b0fe22b88
+r
+java:S3740%"/Provide the parametrized type for this generic.(ì¬ƒ8Êç±¥…2J$81c423f6-ac77-40ef-b6b2-2f89d35adc7c
+q
+java:S3740&"/Provide the parametrized type for this generic.(™—E8Êç±¥…2J$38927bd8-ac1c-41aa-87b7-9d5d50616a49
+w
+java:S3740'"/Provide the parametrized type for this generic.(ÊÚÎ¨ùÿÿÿÿ8Êç±¥…2J$08aa58bc-7c75-4229-9c13-6cd1a91293ea
+r
+java:S3740("/Provide the parametrized type for this generic.(§³¸İ8Êç±¥…2J$d510348a-80c0-45f8-bfbf-8131fde1f014
+r
+java:S3740)"/Provide the parametrized type for this generic.(ÕÿàÙ8Êç±¥…2J$2c168c39-9597-4bad-a55b-fb7d325bb1ff
+r
+java:S3740*"/Provide the parametrized type for this generic.(şÈƒÒ8Êç±¥…2J$42f2a269-55f3-4c87-9be6-772a74369e6d
+w
+java:S3740+"/Provide the parametrized type for this generic.(Æ”Ï³ûÿÿÿÿ8Êç±¥…2J$0917537a-5af0-4528-9e57-d94996ac05ba
+r
+java:S3740,"/Provide the parametrized type for this generic.(¯ÿı°8Êç±¥…2J$18cdc280-d46f-44bd-a0f6-1aa3903a0979
+w
+java:S3740-"/Provide the parametrized type for this generic.(Ùúšäÿÿÿÿÿ8Êç±¥…2J$aebb7d06-31ed-427e-a70c-e38cb23384c0
+r
+java:S3740."/Provide the parametrized type for this generic.(®ôš¢8Êç±¥…2J$7d30bdd7-d747-44aa-af46-eb287b4487e7
+w
+java:S3740/"/Provide the parametrized type for this generic.(çÄ©µúÿÿÿÿ8Êç±¥…2J$8c0df90e-a9f1-4b83-b5d0-c47270e2db87
+œ
+java:S1104"YMake txtCustomerId a static final constant or non-public and provide accessors if needed.(©ÿç8Ìç±¥…2J$f8bf2aa5-388a-4999-878d-6fb215f34a93
+œ
+java:S1104"TMake cmbTitle a static final constant or non-public and provide accessors if needed.(íü«±ıÿÿÿÿ8Ìç±¥…2J$37969e13-5b7a-4b58-ae77-ae6dd82e06a0
+›
+java:S1104"SMake txtName a static final constant or non-public and provide accessors if needed.(¨äİìÿÿÿÿÿ8Ìç±¥…2J$714668be-0c16-4bd1-a313-5763606df20b
+›
+java:S1104"SMake dateDOB a static final constant or non-public and provide accessors if needed.(ÍÁÕıÿÿÿÿ8Ìç±¥…2J$bcf8c25a-4d6c-4c62-9dca-ba4801c43489
+
+java:S1104 "VMake txtAddress a static final constant or non-public and provide accessors if needed.(©ûîùıÿÿÿÿ8Ìç±¥…2J$04347fe5-daf1-4944-a204-a70ae667a570
+–
+java:S1104!"SMake txtCity a static final constant or non-public and provide accessors if needed.(Õ•÷8Ìç±¥…2J$693a5d03-b47f-419a-be4d-7a3d70b6fabd
+š
+java:S1104""WMake txtProvince a static final constant or non-public and provide accessors if needed.(€×¡î8Ìç±¥…2J$4129f26d-727b-4efd-91b9-de6d49fd7765
+¡
+java:S1104#"YMake txtPostalCode a static final constant or non-public and provide accessors if needed.(ø®ô”ùÿÿÿÿ8Ìç±¥…2J$c58d451b-9e05-4787-9ee5-6ab9b276a391
+¡
+java:S1104$"YMake tblCustomer01 a static final constant or non-public and provide accessors if needed.(ÑñÚáúÿÿÿÿ8Ìç±¥…2J$62c5b032-c127-4f94-8748-0062ebffa8ec
+œ
+java:S1104%"YMake colCustomerId a static final constant or non-public and provide accessors if needed.(ì¬ƒ8Ìç±¥…2J$58706c55-fc7e-4e22-ad27-d3a4b6f02ee5
+–
+java:S1104&"TMake colTitle a static final constant or non-public and provide accessors if needed.(™—E8Ìç±¥…2J$1563a7a5-b7d9-49c1-a74f-f08a9c0a4856
+›
+java:S1104'"SMake colName a static final constant or non-public and provide accessors if needed.(ÊÚÎ¨ùÿÿÿÿ8Ìç±¥…2J$50bc208e-ef56-4006-b9b1-951389b87bbc
+•
+java:S1104("RMake colDob a static final constant or non-public and provide accessors if needed.(§³¸İ8Ìç±¥…2J$681064d3-d69b-4349-b691-c7fd1f9b1d78
+›
+java:S1104)"XMake colContactNo a static final constant or non-public and provide accessors if needed.(ÕÿàÙ8Ìç±¥…2J$1a752686-dec2-4f0c-a004-eb676344c7ce
+œ
+java:S1104*"YMake tblCustomer02 a static final constant or non-public and provide accessors if needed.(şÈƒÒ8Ìç±¥…2J$f38c90e7-e302-409b-b311-a6cbace51da7
+£
+java:S1104+"[Make colCustomerId02 a static final constant or non-public and provide accessors if needed.(Æ”Ï³ûÿÿÿÿ8Ìç±¥…2J$70beafec-0dd8-42ab-af6f-25a1c1f73499
+™
+java:S1104,"VMake colAddress a static final constant or non-public and provide accessors if needed.(¯ÿı°8Ìç±¥…2J$832fd302-dfff-46d6-b72d-40f5505bbc72
+›
+java:S1104-"SMake colCity a static final constant or non-public and provide accessors if needed.(Ùúšäÿÿÿÿÿ8Ìç±¥…2J$03b904ab-cc95-4e2d-b26c-f7d2db494456
+š
+java:S1104."WMake colProvince a static final constant or non-public and provide accessors if needed.(®ôš¢8Íç±¥…2J$a75d40e4-176e-400c-9a37-2e499ed3ae01
+¡
+java:S1104/"YMake colPostalCode a static final constant or non-public and provide accessors if needed.(çÄ©µúÿÿÿÿ8Íç±¥…2J$42d9e7ff-edc4-484d-9298-2f490be0afa2
+ 
+java:S11040"XMake txtContactNo a static final constant or non-public and provide accessors if needed.(¤«Î£ıÿÿÿÿ8Íç±¥…2J$411579ed-531a-4977-92e3-f9c63b5f0eb7
+
+java:S2095T"GUse try-with-resources or close this "Statement" in a "finally" clause.(ƒ…Ù†üÿÿÿÿ8óïÔ¥…2J$0f9f4c40-f581-47f5-bb80-038af14f7ccc
+É
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿˜å•øÿÿÿÿ8æç±¥…2J$f55a350c-4f06-4071-9a12-b09343da95eb
+u
+java:S11724"2Remove this unused method parameter "actionEvent".(Ó¿ÀÄ8êç±¥…2J$93fc1e90-7639-4087-98c0-84862a943ac1
+u
+java:S1172R"2Remove this unused method parameter "actionEvent".(Œ“‘8ğç±¥…2J$227c1895-ef8d-4111-90cb-3bdd61e73bc2
+m	java:S106Z"+Replace this use of System.out by a logger.(Ú–áƒ8ñç±¥…2J$28ed48dd-9925-4a96-93c7-eb9c0c9d9145
+r	java:S106\"+Replace this use of System.out by a logger.(˜Èøÿÿÿÿ8òç±¥…2J$4c155089-3211-496b-a8db-73ac7de5c5de
+u
+java:S1172c"2Remove this unused method parameter "actionEvent".(áÄ´ü8óç±¥…2J$9255de9c-a408-4824-a0c3-fa6eac18ec1d
+m	java:S106e"+Replace this use of System.out by a logger.(ê¾ú®8óç±¥…2J$1d40750d-7fa5-4bfc-85d5-6686384c5639
+–
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÏÃì8šğÔ¥…2J$5410cfdc-1c07-4ca5-b138-045bb62062b8
+s
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8šğÔ¥…2J$c4584822-9e0f-40f3-86a3-4d3ef3dd59c5
+
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8šğÔ¥…2J$894e6ee1-c9c7-43cd-9036-9e19f462f5f8
+q
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8šğÔ¥…2J$6e99448f-3d26-4975-9db8-4e8db75e0ab9

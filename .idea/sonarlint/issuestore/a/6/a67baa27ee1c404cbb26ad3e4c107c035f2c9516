@@ -1,0 +1,14 @@
+
+	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8˜°Ÿ¥…2J$0e97a923-b307-43f4-ada6-f6860fc5908c
+	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8˜°Ÿ¥…2J$93568f0a-da56-4d66-855c-a935c5c550e9
+	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÍÄŸ¥…2J$8bb7da50-5fe2-4ad3-b015-f11929db7e29
+q
+java:S1121".Extract the assignment out of this expression.(¢ê„•8š°Ÿ¥…2J$e6107e9e-1fe6-478a-aab1-d82b26755501
+‘
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ì£¯8ª°Ÿ¥…2J$6f01ec71-af29-44d1-aafd-9ea99f9bef4e
+
+java:S20957"GUse try-with-resources or close this "Statement" in a "finally" clause.(êò¾ùÿÿÿÿ8ª°Ÿ¥…2J$08d40497-8a13-4489-92db-909739d96a59
+—
+java:S2095S"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¡‚€Øüÿÿÿÿ8 ƒ¢¥…2J$6ece5174-939a-452e-87f3-e290b76968aa
+á
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ƒğÄÊûÿÿÿÿ8®°Ÿ¥…2J$f4d6e5e5-aa31-4dfe-b62f-ff695b9f0e7a
